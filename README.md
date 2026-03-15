@@ -1,2 +1,2 @@
-# Conway-s-Game-of-Life
-An implementation of the black-and-white Game of Life with a random starting bitmap written in RISC-V assembly. 
+# Assembly Projects
+A set of small low-level programming projects written in assembly for different architectures.
